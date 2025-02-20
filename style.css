@@ -3,6 +3,10 @@
 .kishk h1,
 .tuna h1 {
     color: blueviolet;
+    display: inline-block;
+    background-color: black;
+    padding: 8px;
+    margin-bottom: 10px;
 }
 
 .index h2,
@@ -10,6 +14,10 @@
 .kishk h2,
 .tuna h2 {
     color: blueviolet;
+    display: inline-block;
+    background-color: black;
+    padding: 8px;
+    margin-bottom: 8px;
 }
 
 .index {
@@ -29,9 +37,11 @@
 .kishk-pic {
     height: auto;
     width: 30%;
+    display: block;
 }
 
 .tuna-pic {
     height: 450px;
     width: 320px;
+    display: block;
 }
